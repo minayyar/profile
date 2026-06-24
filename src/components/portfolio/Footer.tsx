@@ -13,7 +13,7 @@ export function Footer() {
             <span className="grid h-9 w-9 place-items-center rounded-lg bg-gradient-primary shadow-glow">
               <Cloud className="h-5 w-5 text-primary-foreground" />
             </span>
-            <span className="text-lg font-bold gradient-text">Majid.devops</span>
+            <span className="text-lg font-bold gradient-text">Majid Iqbal Nayyar</span>
           </div>
           <p className="mt-4 max-w-md text-sm text-muted-foreground">
             Senior Cloud &amp; DevOps Engineer designing scalable infrastructure, automating

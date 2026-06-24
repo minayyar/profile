@@ -48,7 +48,7 @@ export function Nav() {
             <span className="grid h-9 w-9 place-items-center rounded-lg bg-gradient-primary shadow-glow">
               <Cloud className="h-5 w-5 text-primary-foreground" />
             </span>
-            <span className="gradient-text text-lg">Majid.devops</span>
+            <span className="gradient-text text-lg">Majid Iqbal Nayyar</span>
           </a>
           <ul className="hidden items-center gap-7 md:flex">
             {LINKS.map(([label, id]) => (
